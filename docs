@@ -1,0 +1,12 @@
+// NAMA PROGRAM : Number Sorting Program
+// Author : Afdi Pratam / https://github.com/afdipratama/
+// Documentation : 01/07/2023
+// Version : 1.1
+
+// FAQ
+// Q : CARA INSTALL ?
+// A : - uka gitbash lalu Install Node JS versi terbaru
+//     - ketik `git clone https://github.com/afdipratama/LSP` atau download manual via github
+//     - npm init ( enter terus )
+//     - npm i ( untuk install modul ) jika sudah selesai lalu
+//     - node main2.js
