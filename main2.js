@@ -1,7 +1,7 @@
 const readline = require('readline'); // IMPORT MODUL DENGAN REQUIRE , MEMANGGIL MODUL DARI NODE_MODULES
 const fs = require('fs');
 
-const rl = readline.createInterface({  
+const rl = readline.createInterface({  // proses pemanggilan kepada readline untuk input dan output nantinya
   input: process.stdin,
   output: process.stdout
 });
