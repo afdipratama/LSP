@@ -5,7 +5,10 @@ Program PT Argo adalah aplikasi penggajian karyawan yang dibangun menggunakan No
 
 ## Instalasi
 ### Persyaratan
-- Node.js harus terinstal di komputer Anda. Jika belum, Anda dapat mengunduh dan menginstal Node.js dari [situs resmi Node.js](https://nodejs.org).
+Node.js harus terinstal di PC, kalau belum, silahkan download Node.js dari [situs resmi Node.js](https://nodejs.org) (
+Versi Terbaru atau versi serupa dengan saya
+![image](https://github.com/afdipratama/LSP/assets/45161296/abf59bb4-45ff-41e3-9f26-8bbb581ef0bb)
+
 
 ### Langkah-langkah Instalasi
 1. Download repo program PT Argo ke PC mu
